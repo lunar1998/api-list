@@ -1,0 +1,5 @@
+[
+    "https://mp-trad.world",
+    "https://mp-trad.trade",
+    "https://mp-trad.win"
+ ]
